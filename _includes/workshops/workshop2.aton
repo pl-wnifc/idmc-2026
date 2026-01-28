@@ -1,0 +1,29 @@
+
+
+
+@@BEGIN: WORKSHOP
+@id: workshop2
+@title: Metadata with Google Sheets
+@date: 2024-10-23
+@time: 16:30
+@presenter: Benjamin Ory, Craig Stuart Sapp, Jacek Iwaszko
+@slides: https://bit.ly/IDCM-metadata
+@abstract: 
+
+	This workshop offers a foundational introduction to organising
+	and displaying metadata on the web using <a target="_blank"
+	href="https://workspace.google.com/products/sheets">Google
+	Sheets</a>.  This user-friendly approach to data management
+	enables individuals without significant technical expertise to
+	create and collaboratively edit metadata for web-based
+	applications. We will explore various projects that employ this
+	method and demonstrate how to export metadata with <a target="_blank"
+	href="https://developers.google.com/apps-script/overview">Google
+	Apps Scripts</a> to convert worksheets into JSON data.  The
+	JSON data can then be used to dynamically update a webpage
+	or downloaded for static integration.
+
+@@END: WORKSHOP
+
+
+
