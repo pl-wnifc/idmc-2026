@@ -1,0 +1,55 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: janutenaite-bogdaniene-kucinskas
+@title: Multimodal Encoding of Čiurlionis’ Vocal Music through MEI–TEI Integration and Open LLM Evaluation
+@presenter: Jūratė Janutėnaitė-Bogdanienė<sup>1</sup> &amp; Darius Kučinskas<sup>2</sup>
+@affiliation: (1) Vilnius Gediminas Technical University, Vilnius, Lithuania (2) Kaunas University of Technology, Kaunas, Lithuania 
+@date: 2024-10-24
+@time: 12:00
+@abstract: 
+
+	Mikalojus Konstantinas Čiurlionis (1875–1911), a Lithuanian
+	composer and painter, developed a body of work in which 
+	musical and visual modes of thought are tightly intertwined.
+	Although his piano compositions have recently been made
+	openly accessible through an online platform providing
+	manuscript facsimiles, critical editions, MEI encodings,
+	and interactive analytical tools, comparable computational
+	support for his vocal music remains lacking. Vocal works
+	pose additional challenges due to the need to represent,
+	align, and compare historically evolving textual content
+	alongside musical structure. This paper presents an
+	extension of an existing digital environment for the
+	analysis of Čiurlionis’s music that brings his vocal works
+	into focus. The project combines established music-encoding
+	practices with methods from digital text scholarship to
+	represent both music and lyrics in a flexible, historically
+	sensitive way. Multiple versions of song texts are encoded
+	and related directly to musical passages, allowing scholars
+	to examine how changes in words and changes in music
+	interact. In addition, the framework serves as a testing
+	ground for the use of open large language models (LLMs) in
+	musicological practice. We explore how such models can
+	assist in transforming lyric transcriptions into structured
+	scholarly formats and in relating textual variants to
+	musical settings. Several open LLMs are compared with
+	regard to their reliability, consistency, and suitability
+	for historically complex poetic sources. The resulting data
+	model integrates textual and musical materials while
+	remaining compatible with existing encodings of
+	instrumental works. On this basis, we develop tools for
+	searching, comparing, and analysing the relationship
+	between text and music across different versions of a work.
+	By combining close attention to Čiurlionis’s vocal
+	repertoire with an evaluation of emerging digital methods,
+	this study offers a general framework for the digital study
+	of vocal music and reflects on the role of AI-based tools
+	in musicological research. The presented research is
+	granted by Lithuanian Research Council (S-LISm-25-7).
+
+@@END: PRESENTATION
+
+
+
