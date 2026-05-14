@@ -1,0 +1,47 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: eipert
+@title: Probabilistic Approaches to Repertoire and Melody in Medieval Chant
+@presenter: eipert
+@abstract: 
+
+	Medieval chant survives in a vast and uneven record copied
+	over many centuries. How this repertoire was transmitted
+	remains a central question for musicology. Traditional
+	scholarship addresses this question through close
+	comparison of selected sources, from which musicologists
+	develop hypotheses about shared lineages, regional
+	dialects, and stylistic norms. Digital modelling can
+	complement this work by making the assumptions behind such
+	comparisons explicit and by scaling them to a larger
+	portion of the surviving record. This talk presents two
+	case studies that approach transmission from complementary
+	angles: what manuscripts contain, and how their melodies
+	are shaped. The first case study treats transmission as a
+	question of community structure. A bipartite network links
+	trope manuscripts to the trope elements they contain, and a
+	nested stochastic block model infers groups of manuscripts
+	that share repertoire. The resulting communities can then
+	be plotted geographically and read against historical and
+	political boundaries. The second case study treats
+	transmission as a question of stylistic regularity. Using
+	Bayesian generative models, competing hypotheses about what
+	shapes a chant melody are formulated as explicit models and
+	compared on parallel corpora of Introits and Tropes. Each
+	model encodes a specific assumption about melodic
+	structure, and the models can be evaluated against one
+	another on the same data. Taken together, the two case
+	studies point to a broader role for computational
+	humanities: hypotheses that emerge from close reading can
+	be reformulated as probabilistic models, compared against
+	one another, and tested at the scale of an entire
+	repertoire. Digital tools are valuable here not as a
+	replacement for traditional musicological work, but as a
+	way of taking its intuitions seriously enough to test them.
+
+@@END: PRESENTATION
+
+
+

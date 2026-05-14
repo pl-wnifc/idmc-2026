@@ -1,0 +1,27 @@
+
+
+
+@@BEGIN: BIO
+@id: eipert
+@title: 
+@first-name: Tim
+@last-name: Eipert
+@affiliation: Julius-Maximilians-Universität Würzburg
+@city: Würzburg
+@country: Germany
+@bio:
+
+	Tim Eipert is a Research Assistant on the edition project
+	<i>Corpus Monodicum: Die einstimmige Musik des lateinischen
+	Mittelalters</i> and is working on his PhD at the 
+	Julius-Maximilians-Universität Würzburg. He completed his
+	Master's in Musicology in 2020 with a thesis on the
+	automated segmentation of medieval chants. His dissertation
+	investigates the transmission of medieval chant using
+	computational methods, including Bayesian inference and
+	network analysis. He is broadly interested in how
+	humanities questions can be modelled computationally, with
+	current work spanning medieval chant, digital editing, and
+	jazz improvisation.
+
+@@END: BIO
