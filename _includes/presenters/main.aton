@@ -1,0 +1,10 @@
+
+
+{% comment %} list of presenters {% endcomment %}
+{% include presenters/dahlig-turek                %}
+{% include presenters/matuszewska                 %}
+{% include presenters/eipert.aton                 %}
+{% include presenters/janutenaite-bogdaniene.aton %}
+{% include presenters/kucinskas.aton              %}
+{% include presenters/poudrier.aton               %}
+

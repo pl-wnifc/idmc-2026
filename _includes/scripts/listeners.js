@@ -1,8 +1,10 @@
 
 let Presentations = `{% include presentations/main.aton %}`;
 let Workshops     = `{% include workshops/main.aton %}`;
+let Presenters    = `{% include presenters/main.aton %}`
 let pLookup  = {};
 let wLookup  = {};
+let hLookup  = {};
 
 
 //////////////////////////////
