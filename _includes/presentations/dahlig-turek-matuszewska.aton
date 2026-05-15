@@ -1,0 +1,62 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: dahlig-turek-matuszewska
+@title: The Folk Ballad as a Digital Corpus: A Comparison of Materials from Oskar Kolberg’s Opera Omnia and the Essen Folksong Collection
+@presenter: dahlig-turek; matuszewska
+@abstract: 
+
+	This paper presents a comparative analysis of two corpora
+	of folk ballads: the Polish material from Oskar Kolberg’s
+	collection and the German-language material from the <i>Essen
+	Folksong Collection</i>, based, among other sources, on the
+	edition <i>Deutsche Volkslieder mit ihren Melodien. Balladen</i>.
+	Comparative research is central to digital musicology, as
+	it makes it possible to move beyond the analysis of
+	individual sources and to identify broader patterns within
+	large repertorial collections. Despite the growing
+	abundance of digital material, however, identifying
+	suitable corpora for comparative research remains a
+	significant challenge. Collections often differ in
+	chronological and geographical scope, editorial principles,
+	degree of completeness, or repertorial coverage, all of
+	which complicate the reliable comparison of results. In the
+	present project, the situation is particularly favourable:
+	the two corpora are comparable in size and contain the same
+	musical genre — the folk ballad — making it possible to
+	undertake a statistical analysis aimed at identifying
+	trends, similarities, and differences between the Polish
+	and German-language materials.
+
+	The Polish part of the study will be based on Oskar
+	Kolberg’s collection, which contains the texts and melodies
+	of 41 ballad types, transmitted in numerous variants from
+	different regions of Poland, amounting to 444 ballads in
+	total. The comparative material will consist of the
+	German-language ballad corpus known as the <i>Essen Folksong
+	Collection</i>, based, among other sources, on the eight-volume
+	edition <i>Deutsche Volkslieder mit ihren Melodien. Balladen</i>,
+	published by the Deutsches Volksliederarchiv between 1935
+	and 1988. Although this corpus has long circulated within
+	digital musicology, it has not yet been fully used as an
+	object of musicological inquiry into the ballad repertory.
+	More often, it has served as an accessible dataset for
+	testing methods of symbolic music analysis rather than as
+	material interpreted in accordance with one of its primary
+	purposes: the documentation and analysis of the
+	German-language song tradition. Only when placed alongside
+	the digitised material of Oskar Kolberg does its potential
+	become available in a way closer to its original source
+	context — as a comparative corpus for the study of the
+	structure, variability, and circulation of ballad melodies.
+
+	The research will be conducted using files in the <b>EsAC</b>
+	format, since this format is available for both corpora and
+	enables work on comparable material encoded in symbolic
+	form.
+
+@@END: PRESENTATION
+
+
+
