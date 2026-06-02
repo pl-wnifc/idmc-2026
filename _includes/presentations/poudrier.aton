@@ -7,56 +7,59 @@
 @presenter: poudrier
 @abstract: 
 
-	This presentation features an interdisciplinary research
-	project that investigated listeners’ experience of complex
-	rhythmic structures characteristic of the first half of the
-	20th-century music in Europe and North America. Harnessing
-	advances in computational representation and analysis of
-	music, the <i>Polyrhythm Project</i> (https://polyrhythm.humdrum.org)
-	offers a digital corpus of 725 polyrhythmic excerpts drawn
-	from 450 works by 20 representative composers. Following
-	best practices in digital scholarship, each example
-	includes over seventy metadata fields—spanning duration,
-	time signature, tempo, instrumentation, and music
-	production. The corpus is published as an open-access web
-	platform with detailed documentation, including references
-	to scores and recordings used during the encoding and
-	analysis phases of the project. Users can interactively
-	filter and browse examples by metadata, explore music
-	production with interactive maps, visualize composite and
-	coincidence rhythms that highlight polyrhythmic features,
-	and listen to high-quality synthetic audio generated using
-	EastWest Sounds libraries. Hosted on GitHub Pages with a
-	Leaflet-based mapping interface and dynamic data
-	visualizations, the platform supports public access and
-	future extension for both research, pedagogical, and
-	creative applications. 
-	
-	To quantify rhythmic complexity, we developed a composite
-	analysis tool that extracts event onsets and computes
-	measures of polyrhythmic activity overall and between
-	parts, all integrated into the online platform. These data
-	supported the design of a series of experimental studies
-	with ecological stimuli that aimed to characterize
-	listeners’ perception of four emotional dimensions (mood,
-	energy, movement, dissonance, and tension). The findings
-	point to significant effects of selected rhythmic variables
-	unveiled by the composite tool, such as the nested ratio
-	(proportion of coinciding events across parts), event
-	density ratio (calculated in notes per second in human
-	performance), and the differential in note-to-note
-	variability between component rhythmic layers. Effects of
-	pitch-related features such as sonority dissonance and
-	pitch height were also observed.
-	
-	The presentation will conclude with an introduction of
-	“Folklore vivant,” a new research and public outreach
-	project for community resilience through creative
-	engagement with Francophone songs. Both projects
-	demonstrate how new technologies can enhance research
-	practices, knowledge mobilization, and accessible
-	dissemination, and thus contribute to preservation of, and
-	creative interaction with, diverse musical cultures.
+This presentation features an interdisciplinary research
+project that investigated listeners’ experience of
+complex rhythmic structures characteristic of the first
+half of the 20th-century music in Europe and North America.
+Harnessing advances in computational representation and
+analysis of music, the <i>Polyrhythm Project</i>
+(https://polyrhythm.humdrum.org) offers a digital corpus of
+725 polyrhythmic excerpts drawn from 450 works by 20
+representative composers. Following best practices in
+digital scholarship, each example includes over seventy
+metadata fields—spanning duration, time signature, tempo,
+instrumentation, and music production. The corpus is
+published as an open-access web platform with detailed
+documentation, including references to scores and
+recordings used during the encoding and analysis phases of
+the project. Users can interactively filter and browse
+examples by metadata, explore music production with
+interactive maps, visualize composite and coincidence
+rhythms that highlight polyrhythmic features, and listen to
+high-quality synthetic audio generated using EastWest
+Sounds libraries. Hosted on GitHub Pages with a
+Leaflet-based mapping interface and dynamic data
+visualizations, the platform supports public access and
+future extension for research, pedagogical, and creative
+applications.
+
+To quantify rhythmic complexity, we developed a composite
+analysis tool that extracts event onsets and computes
+measures of polyrhythmic activity overall and between
+parts, all integrated into the online platform. These data
+supported the design of a series of experimental studies
+with ecological stimuli that aimed to characterize
+listeners’ perception of four emotional dimensions (mood,
+energy, movement, dissonance, and tension). The findings
+point to significant effects of selected rhythmic variables
+unveiled by the composite tool, such as the nested ratio
+(proportion of coinciding events across parts), event
+density ratio (calculated in notes per second in human
+performance), and the differential in note-to-note
+variability between component rhythmic layers. Effects of
+pitch-related features such as sonority dissonance and
+pitch height were also observed.
+
+The presentation will conclude with an introduction of
+“Folklore vivant,” a new research and public outreach
+project for community resilience through creative
+engagement with Francophone songs. Both projects
+demonstrate how new technologies can enhance research
+practices, knowledge mobilization, and accessible
+dissemination, and thus contribute to preservation of, and
+creative interaction with, diverse musical cultures.
+
+
 
 @@END: PRESENTATION
 

@@ -1,8 +1,15 @@
 
 
 {% comment %} list of presentations {% endcomment %}
-{% include presentations/dahlig-turek-matuszewska              %}
+{% include presentations/albrecht.aton                         %}
+{% include presentations/condit-schultz.aton                   %}
+{% include presentations/dahlig-turek-matuszewska.aton         %}
+{% include presentations/desmond.aton                          %}
+{% include presentations/drescher.aton                         %}
 {% include presentations/eipert.aton                           %}
+{% include presentations/hankinson.aton                        %}
 {% include presentations/janutenaite-bogdaniene-kucinskas.aton %}
 {% include presentations/poudrier.aton                         %}
-
+{% include presentations/rodin.aton                            %}
+{% include presentations/smith.aton                            %}
+{% include presentations/wiering.aton                          %}

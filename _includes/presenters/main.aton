@@ -1,10 +1,17 @@
 
 
 {% comment %} list of presenters {% endcomment %}
-{% include presenters/dahlig-turek                %}
-{% include presenters/matuszewska                 %}
+{% include presenters/albrecht.aton               %}
+{% include presenters/condit-schultz.aton         %}
+{% include presenters/dahlig-turek.aton           %}
+{% include presenters/desmond.aton                %}
+{% include presenters/drescher.aton               %}
 {% include presenters/eipert.aton                 %}
+{% include presenters/hankinson.aton              %}
 {% include presenters/janutenaite-bogdaniene.aton %}
 {% include presenters/kucinskas.aton              %}
+{% include presenters/matuszewska.aton            %}
 {% include presenters/poudrier.aton               %}
+{% include presenters/smith.aton                  %}
+{% include presenters/wiering.aton                %}
 

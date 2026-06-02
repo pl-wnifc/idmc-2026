@@ -6,9 +6,9 @@
 // parsePresentations -- Convert Presentations data from ATON to JSON.
 //
 
-function parsePresentations(presentations) {
+function parsePresenters(presenters) {
 	let aton = new ATON;
-	presentations = aton.parse(presentations).PRESENTATION;
+	presenters = aton.parse(presenters).PRESENTER;
 
    let urlPattern = /(?<!href=")https?:\/\/[^\s)><]+[^\s),.?!><]/g;
 	for (let i=0; i<presentations.length; i++) {
