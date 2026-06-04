@@ -1,0 +1,58 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: condit-schultz
+@title: Enabling the Study of Lyric-Music Correspondence in Song: Encoding Linguistic Annotations in Humdrum Scores
+@presenter: condit-schultz
+@abstract: 
+
+	Lyrics are a ubiquitous and essential part of most of the
+	world’s most popular forms of music. Unfortunately,
+	computational musicology—like many areas or music
+	research—has often given lyrics short shrift. Though music
+	encoding standards (musicXML, humdrum, MEI, etc.) allow for
+	the encoding of lyrics in a mode similar to conventional
+	Western scores, many major collections of digital scores
+	simply don’t include lyric encodings (e.g., Essen). Even
+	when lyrics are included in datasets, there is generally
+	little consistency or rigor: For example, no standards for
+	capitalization, punctuation, dialectical pronunciations, or
+	marking syntactic boundaries have been adopted in music
+	research. Though computational musicology is a close cousin
+	to computational linguistics, we have generally failed to
+	consider how linguistic standards or analyses (for example,
+	part-of-speech or syntactic dependency tags) might be
+	applied to lyric data.
+	
+	In this paper I present systematic standards and best
+	practices for the consistent and detailed encoding of
+	lyrics in humdrum-syntax data, including approaches to
+	annotating “lyrics-specific” annotations like
+	pronunciation, rhyme, parts-of-speech, and syntactic
+	dependencies. I also demonstrate practical workflows for
+	adding such annotations to existing datasets. I demonstrate
+	these standards applied to humdrum-encoded datasets of
+	popular music (MCFlow and CoCoPops) and classical music
+	(Bach and Telemann cantatas).
+	
+	Using my new lyric data, I analyze the structural
+	relationships between lyrics and music. I investigate how
+	how musical grouping structures (phrases, subphrases,
+	motives) can align—or conflict—with linguistic
+	structures In this talk, I will I focus on two analyses:
+	(1) how multi-syllable word boundaries are set to music,
+	and particularly how classical music and vernacular music
+	approach this differently, and (2) how syntactic boundaries
+	in lyrics can conflict with musical boundaries to create
+	enjambment-like effects. I document and classify a wide
+	variety of such these effects in both rock and hip hop
+	music; For example, I show how rock singers and rappers use
+	conjunctions (“and”, “but”, etc.) at the end of
+	musical phrases to create tension and drive attention into
+	the next phrase.
+
+@@END: PRESENTATION
+
+
+

@@ -1,10 +1,12 @@
 
 let Presentations = `{% include presentations/main.aton %}`;
 let Workshops     = `{% include workshops/main.aton %}`;
-let Presenters    = `{% include presenters/main.aton %}`
+let Presenters    = `{% include presenters/main.aton %}`;
+let Schedule      = `{% include schedule.tsv %}`;
 let pLookup  = {};
 let wLookup  = {};
 let hLookup  = {};
+let sLookup  = {};
 
 
 //////////////////////////////
@@ -16,11 +18,13 @@ let hLookup  = {};
 document.addEventListener("DOMContentLoaded", function (event) {
 	Presentations = parsePresentations(Presentations);
 	Workshops     = parseWorkshops(Workshops);
-
+	Presenters    = parsePresenters(Presenters);
+	Schedule      = parseSchedule(Schedule);
 	createAbstractList(Presentations);
 	createWorkshopList(Workshops);
-	fillInPresentationsSchedule(Presentations);
-  fillInWorkshopsSchedule(Workshops);
+	prepareSchedule(Schedule);
+	//fillInPresentationsSchedule(Presentations);
+  //fillInWorkshopsSchedule(Workshops);
 
 	let originUrl = window.location.href;
 	let target;

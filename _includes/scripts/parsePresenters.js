@@ -8,11 +8,11 @@
 
 function parsePresenters(presenters) {
 	let aton = new ATON;
-	presenters = aton.parse(presenters).PRESENTER;
+	presenters = aton.parse(presenters).BIO;
 
    let urlPattern = /(?<!href=")https?:\/\/[^\s)><]+[^\s),.?!><]/g;
-	for (let i=0; i<presentations.length; i++) {
-		let a = presentations[i].abstract;
+	for (let i=0; i<presenters.length; i++) {
+		let a = presenters[i].bio;
 
 		// Convert URLs to hyperlinks
 		a = a.replace(urlPattern, function (url) {
@@ -26,15 +26,14 @@ function parsePresenters(presenters) {
 		a = `<p class='abstract-content'>${a}</p>`;
 
 		// Store the processed abstract back into presentations
-		presentations[i].abstract = a;
+		presenters[i].bio = a;
 
 		// Create ID lookup for presentations (by presenters' last name)
-		let id = presentations[i].id;
-		pLookup[id] = presentations[i];
+		let id = presenters[i].id;
+		hLookup[id] = presenters[i];
 	}
 
-
-	return presentations;
+	return presenters;
 }
 
 

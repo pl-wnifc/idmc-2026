@@ -1,0 +1,63 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: smith
+@title: Music Encoding and the Monumental Edition
+@presenter: smith
+@abstract: 
+
+Recent developments in the encoding of music notation have
+led to exciting projects which employ computational
+musicology to address specific research questions, and to
+scholarly editions in which primary sources are transcribed
+as faithfully as possible, preserving the intangible
+cultural heritage within them in a readily accessible form.
+However, the full potential of such digital possibilities
+has yet to be realised in critical editing of the kind
+found in European monumental editions. 
+
+This paper uses early English keyboard music from the
+sixteenth and seventeenth centuries as a case study because
+in this repertoire there is no fixity of text leading to a
+great deal of textual variance between sources. It builds
+upon an AHRC-funded project, Digital Directions for
+Collected Editions (2021–2023), in which questions around
+the users of such editions were raised. It will explore the
+differing needs of hypothetical users of such an edition
+and propose ways in which these might be met in the digital
+monumental edition of the future. 
+
+Such an edition could cater on the same platform for both
+‘best text’ approaches to editing and those in which texts
+are conflated. It could be constructed in ‘layers’:
+diplomatic editions of sources, source editions with the
+minimum number of emendations made in reference to
+concordant texts, and critical editions. Sources could be
+viewed in parallel, and/or variants appear alongside a main
+text. Users could choose between various aspects of
+notation – for example, preservation of original beaming of
+smaller note values in source editions or its
+modernisation. Scholarly, critical editions could also
+serve as the basis for practical, performing editions with
+different audiences in mind – for example, one might
+contain suggested ‘original’ fingerings for the advanced
+student, whereas another might have modern fingerings for a
+young pianist. The editor of such an edition could act also
+as curator, guiding different categories of user to the
+material that they need. Information on performance
+practice, instruments, and the history of early English
+keyboard music could be updated in the light of changing
+scholarship, and unlike paper-based editions, the texts
+themselves could be corrected if necessary without having
+to publish a second edition.
+
+The problems faced by the editor of digital editions are
+the same as for any printed one. However, the encoding of
+notation and a digital platform may offer easier (although
+not necessarily cheaper) solutions.
+
+@@END: PRESENTATION
+
+
+

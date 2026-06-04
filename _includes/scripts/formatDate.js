@@ -24,7 +24,7 @@ function formatDate(inputDate) {
 	let year = date.getUTCFullYear(); // Get the year
 
 	// Return the formatted string
-	return `${dayName}, ${monthName} ${day}, ${year}`;
+	return `${dayName}, ${day} ${monthName} ${year}`;
 }
 
 

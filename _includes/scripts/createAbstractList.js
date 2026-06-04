@@ -28,16 +28,36 @@ function createAbstractList(list) {
 		title.innerHTML = list[i].title;
 		let author = document.createElement("p");
 		author.classList.add('author');
-		author.innerHTML = list[i].presenter;
+		let presentersIdList = getPresentersList(list[i].presenter);
+		let authorFieldList = [];
+		let affiliationFieldList = [];
+		for (var j = 0; j < presentersIdList.length; j++) {
+			let authorFieldItem = hLookup[presentersIdList[j]]['first-name'] + " " + hLookup[presentersIdList[j]]['last-name'];
+			let affiliationFieldItem = hLookup[presentersIdList[j]]['affiliation'] + ", " + hLookup[presentersIdList[j]]['city'] + ", " +  hLookup[presentersIdList[j]]['country'] ;
+			if (presentersIdList.length > 1) {
+				let index = j+1
+				authorFieldItem = authorFieldItem + "<sup>" + index + "</sup>";
+				affiliationFieldItem = "<sup>" + index + "</sup>" + affiliationFieldItem;
+			}
+			authorFieldList.push(authorFieldItem);
+			affiliationFieldList.push(affiliationFieldItem);
+		}
+		//console.log(list[i].presenter);
+		//console.log(hLookup);
+		author.innerHTML = authorFieldList.join(", ");
 
 		let affiliation = document.createElement("p");
 		affiliation.classList.add("affiliation");
-		affiliation.innerHTML = list[i].affiliation;
-		let dateString = formatDate(list[i].date);
-
+		affiliation.innerHTML = affiliationFieldList.join(", ");
+		
+		
+		//let dateString = formatDate(list[i].date);
+		
+		let dateString = formatDate(sLookup[id].day);
+		
 		let date = document.createElement("p");
 		date.classList.add("date");
-		date.innerHTML = dateString + ", " + list[i].time
+		date.innerHTML = dateString + ", " + sLookup[id].time;
 
 		abstractHead.appendChild(title);
 		abstractHead.appendChild(author);

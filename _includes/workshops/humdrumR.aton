@@ -1,0 +1,83 @@
+
+
+
+@@BEGIN: WORKSHOP
+@id: humdrumR
+@title: Exploring the Fundamentals of Information Theory through Musical Data: An Introductory Workshop in HumdrumR
+@presenter: condit-schultz
+@slides: 
+@abstract:
+
+	<a href="http://www.humdrumR.org">HumdrumR</a> is an R package for analyzing data encoded in the
+	<a href="https://www.humdrum.org">humdrum data syntax</a>, a powerful and flexible format for
+	musical data with many large datasets available online.
+	Inspired by the design of the original humdrum toolkit
+	(Huron 1995), humdrumR is designed to be appealing and
+	accessible to traditional musicologists while also being
+	useful to more experienced computational researchers.
+	HumdrumR combines the flexibility and transparency of the
+	humdrum syntax with the powerful data analysis tools and
+	concise syntax of R, making basic musicological analyses
+	(i.e., tallying scale degrees) extremely simple and easy
+	while simultaneously affording complex analyses, statistical
+	testing, and graphing. HumdrumR also includes a suite of
+	tools for conducting analyses based on <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a>,
+	including new (as of 2026) tools for modeling the
+	information dynamics of music using the <i>prediction by
+	partial matching algorithm</i> (Cleary & Witten, 1984), just
+	like the <a href="https://www.marcus-pearce.com/idyom/">IDyOM</a> (Pearce, 2005) system.
+	
+	This workshop is an introduction to humdrumR, suitable for
+	music scholars with little or no experience with either
+	humdrum or R. We will focus on the analysis of pitch and
+	rhythm data in several well-known humdrum datasets: the <a href="https://github.com/craigsapp/bach-370-chorales">Bach
+	370 Chorales</a>, the <a href="https://github.com/ccarh/essen-folksong-collection">Essen folk-song collection</a>, <a href="https://github.com/jcdevaney/TAVERN">TAVERN</a>, and
+	<a href="https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops">CoCoPops</a>. Though we will proceed at the pace of the workshop
+	participants and explore any topics/questions of interest to
+	them, the focus of the workshop will be the application of
+	ideas from <b>information theory</b> to musical data. We will show
+	how to compute—and interpret—basic information-theory
+	metrics (entropy, mutual information) across and between
+	different representations of pitch and rhythm, and how to
+	compare these metrics between different (sub)sets of musical
+	data, or across time. We will take time to discuss and
+	<i>understand</i> what information-theory metrics actually mean,
+	and how they can be meaningful tools for musicological
+	analysis—particularly but not limited to their connection
+	to the perception and cognition of music.
+	
+	The planned (but flexible) schedule of topics is:
+	
+	1. Tabulating pitch data in various forms (generic/simple
+	pitch, absolute pitch vs scale degrees, etc.).
+	
+	2. Computing (and interpreting) entropy and information
+	theory.
+	
+	3. Comparing distributions and entropy between
+	composers/genres, and across time.
+	
+	4. Exploring correlations and “mutual information”
+	between rhythm and pitch.
+	
+	5. Simple N-gram tabulation, analyses, and conditional
+	entropy.
+	
+	6. Complex N-gram analysis: Information Dynamics of Music
+	(“IDyOM”-type computation).
+	
+	Workshop participants will need to bring their own
+	computers. You do not need to install or download anything
+	in advance, as all workshop materials (and a functioning R
+	instance) will be running on the cloud (Posit cloud). If you
+	<i>wish</i> to install humdrumR or download datasets on your
+	machine in advance, detailed instructions will be provided
+	in advance of the meeting.
+
+@@END: WORKSHOP
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: hankinson
+@title: RISM Online: Delivering digital musicology data at scale
+@presenter: hankinson
+@abstract: 
+
+With over 1.6 million source records, 2.5 million incipits,
+160,000 people, and 26,000 institutions, RISM Online
+delivers this data to more than 500,000 visitors each month
+in seven languages. As one of the largest open
+bibliographic resources for musical sources, RISM Online
+increasingly serves not only as a discovery platform, but
+also as a foundation for computational and data-driven
+musicological research.
+
+This talk will begin with a high-level overview of key
+features of RISM Online, including its incipit search
+engine, multilingual interfaces, and dedicated searches for
+national and institutional collections.
+
+The presentation will then discuss several underlying
+architectural features that support interoperability,
+extensibility, and long-term sustainability. These include
+the integration of authority data, persistent identifiers,
+and semantic data models that enable connections between
+musical works, sources, people, and institutions across
+collections.
+
+Finally, the talk will preview ongoing experimental work on
+the development of a public Linked Data platform delivering
+more than 300 million RDF triples. This work aims to
+provide researchers and institutions with new opportunities
+for data reuse, network analysis, and cross-collection
+discovery, while also positioning RISM within a broader
+ecosystem of open cultural heritage and digital humanities
+infrastructures.
+
+
+@@END: PRESENTATION
+
+
+

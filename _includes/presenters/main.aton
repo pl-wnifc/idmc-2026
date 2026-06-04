@@ -12,6 +12,8 @@
 {% include presenters/kucinskas.aton              %}
 {% include presenters/matuszewska.aton            %}
 {% include presenters/poudrier.aton               %}
+{% include presenters/rodin.aton                  %}
+{% include presenters/sapp.aton                   %}
 {% include presenters/smith.aton                  %}
 {% include presenters/wiering.aton                %}
 

@@ -1,0 +1,58 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: albrecht
+@title: The role of <i>Affektenlehre</i> on musical characteristics of Chopin’s solo piano repertoire
+@presenter: albrecht
+@abstract: 
+
+According to <i>Affektenlehre</i>, there is a relationship between
+a work’s key and the affect expressed by that work,
+typically reflected in semantic terms such as ‘pure’ or
+‘gloomy.’ However, <i>Affektenlehre</i> extends far beyond
+simple one-to-one relationships between tonality and
+expression, and it is even misleading to call it a single
+theory. In actuality, the theoretical literature of the
+eighteenth and nineteenth centuries is peppered with
+multiple different and competing ideas about the
+relationship between key and expression. Despite the
+popularity of theories of affect at the time, it remains
+unclear to what extent <i>Affektenlehre</i> actually influenced
+compositional practice in this era. Even if a composer
+subscribed to an <i>Affektenlehre</i>, it remains an open question
+as to which theory of affects a particular composer may
+have adopted, and how consistent that composer was in
+expressing the same affects with the same keys. This study
+uses supervised machine learning to analyze the
+relationship between key and automatically extracted
+compositional features for the first published editions in
+the Chopin Legacy in Open Access corpus, a symbolic corpus
+of 182 Chopin piano works represented in kern format. There
+is evidence that Chopin may have conceived of his music in
+a way consistent with an <i>Affektenlehre</i>, and the pianos he
+composed with evinced differences in intonation between
+different keys. In this study, 676 musical features were
+extracted from each piece and used to predict the pieces’
+keys. Some keys were minimally represented, so features
+were also used to predict the broader categories of major
+vs. minor keys and flat-side vs. sharp-side vs.
+no-accidental keys. The results showed the highest
+classification accuracy for major vs. minor and then by
+accidental category, but individual key classifications
+were also significantly higher than chance. Implications
+about affective expression in different keys or key
+categories are drawn by examining the salient
+distinguishing features, including melodic interval size,
+semitone motion, ratio of parallel vs. contrary motion, and
+the degree to which pitch-class distributions clumped
+around a tonic-dominant polarity or spread out in more
+harmonically adventurous ways. Finally, connections between
+feature analysis and traditional theories of affect are
+explored.
+
+
+@@END: PRESENTATION
+
+
+

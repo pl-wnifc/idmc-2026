@@ -1,0 +1,23 @@
+
+
+
+@@BEGIN: BIO
+@id: condit-schultz
+@title: Dr.
+@first-name: Nat
+@last-name: Condit-Schultz
+@affiliation: Georgia Tech School of Music, Computational and Cognitive Musicology Lab
+@city: Atlanta
+@country: Canada
+@bio:
+
+	Nat Condit-Schultz is a musician, composer, and scientist,
+	specializing in the statistical modeling of musical
+	structure. Nat completed his doctorate in music theory and
+	cognition at Ohio State University, advised by David Huron,
+	and currently serves as Director of the Graduate Program
+	for the Georgia Institute of Technology’s School of
+	Music, where he also conducts and advises research as co-PI
+	of the <a href="https://ccml.gtcmt.gatech.edu/">Computational and Cognitive Musicology Lab</a>.
+
+@@END: BIO

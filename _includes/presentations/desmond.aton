@@ -1,0 +1,60 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: desmond
+@title: Aims and design principles of the BROKENSONG digital edition
+@presenter: desmond
+@abstract: 
+
+Most Insular polyphony of the later Middle Ages is in a
+fragmentary and incomplete state. Just under 140 Insular
+manuscript sources of polyphony are extant from the period
+c.1150-c.1350. Only one is a complete codex of polyphony;
+32 Insular miscellanies and liturgical books have isolated
+polyphonic compositions entered as additions to their main
+contents. Otherwise about 280 leaves are extant from just
+over a hundred books or rolls of polyphony, most of which
+were reused as binding materials for other books (as
+flyleaves, pastedowns, or other binding reinforcements).
+The total number of Insular compositions in these c.140
+Insular manuscripts totals just over 800 polyphonic
+compositions.
+
+Due to its fragmentary survival, a large portion of this
+repertoire is little known. The primary critical edition
+are the four volumes (vols. 14-17) published from 1979 to
+1986 in the series <i>Polyphonic Music of the Fourteenth
+Century</i> (hereafter PMFC). For these volumes, the editors
+made the decision that, for the most part, they would not
+edit compositions that survived incompletely. According to
+tallies given in the apparatus to the four PMFC volumes,
+approximately 44% percent of the Insular repertoire then
+known to the editors was left unedited, and that percentage
+is even higher today given the continued discovery of new
+polyphonic fragments.
+
+One of the primary outputs of the ERC-BROKENSONG project
+(PI: Desmond) is an innovative ‘born-digital’ scholarly
+edition that will eventually present editions and
+reconstructions of the complete Insular polyphonic corpus
+c.1150-c.1350, but has begun with the fragmentary unedited
+corpus. This corpus poses many challenges for including
+illegibility due to damage and that voice parts and entire
+sections may be lost. This paper will outline the aims and
+design principles for the BROKENSONG digital edition that
+will allow users to search and browse by source,
+composition, notation and genre and access text
+translations, playback MIDI, view the compositions in
+medieval or modern notation, and also view images of the
+manuscript sources, including new multispectral images of
+any damaged leaves. Principles of encoding the medieval
+notation in MEI and issues relating to the display,
+storage, citation and sustainability of the individual
+editions will also be discussed.
+
+
+@@END: PRESENTATION
+
+
+

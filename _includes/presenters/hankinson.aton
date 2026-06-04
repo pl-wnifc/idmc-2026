@@ -1,0 +1,26 @@
+
+
+
+@@BEGIN: BIO
+@id: hankinson
+@title: Dr.
+@first-name: Andrew
+@last-name: Hankinson
+@affiliation: RISM Digital Center
+@city: Bern
+@country: Switzerland
+@bio:
+
+	Dr. Andrew Hankinson specializes in web technologies for
+	building scalable and usable search and retrieval systems
+	and currently leads development for RISM Online at the RISM
+	Digital Center. He holds a Master’s in Library and
+	Information Studies from McGill University, and a PhD in
+	Music Information Retrieval from McGill University. He was
+	a postdoctoral researcher at the University of Oxford,
+	where he worked on the Digital Image Archive of Medieval
+	Music (DIAMM) project, and served as Senior Software
+	Engineer for Digital Collections Discovery at the Bodleian
+	Libraries.
+
+@@END: BIO
