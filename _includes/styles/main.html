@@ -4,7 +4,7 @@
 <style>
 
 html {
-	background: url('/img/bg1.svg') no-repeat center center fixed;
+	background: url('/img/bg2026.svg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -30,6 +30,7 @@ body {
 }
 
 .header {
+	background: #f6ecddff;
 	width: 100%;
 }
 
@@ -75,34 +76,85 @@ p.abstract-content {
 
 .tab {
 	/*height: 60px;*/
-	background-color: #516f90;
+	background-color: #3955adff;
 	flex: 20%;
 	padding: 26px;
 	color: white;
-	font-size: 22px;
+	font-size: 18px;
 	text-transform: uppercase;
 	/* border-top-left-radius: 40px; */
 	/* border-top-right-radius: 40px; */
 	/* margin-left: 1px; */
 	/* margin-right: 1px; */
+	min-width: 100px;
 }
 
 div.tab:not(.active):hover {
-	background-color: #617fa0;
+	background-color: #486ad3ff;
 	/* background-color: #c0deff; */
 }
 
 .active {
 	/* background-color: #415f80; */
-	background-color: #b1cff0;
+	background-color: #c8cef3ff;
 	color: black;
 	font-weight: bold;
-	box-shadow: inset 0 0 0 2px #617fa0;
+	box-shadow: inset 0 0 0 2px #486ad3ff;
 }
 
 .placeholder {
-  height: 24.8px;
+  height: 20.8px;
 }
+
+/* DROPTOWN PODPOWIEDZIANY PRZEZ AI: */
+
+/* Pozycjonowanie relatywne dla rodzica, aby dzieci pozycjonowały się względem niego */
+.dropdown {
+  position: relative;
+  cursor: pointer;
+}
+
+/* Ukryty kontener z linkami */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%; /* Pokazuje menu tuż pod tabem */
+  left: 0;
+  width: 100%; /* Szerokość dopasowana do tabu Archive */
+  background-color: #3955adff;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1000; /* Pewność, że menu będzie na wierzchu */
+}
+
+/* Wygląd pojedynczych linków w menu */
+.dropdown-content a {
+  color: white !important;
+  padding: 15px 10px;
+  text-decoration: none;
+  display: block;
+  font-size: 18px; /* Zmniejszony font dla czytelności w podmenu */
+  text-transform: none; /* Wyłącza uppercase dla linków, jeśli wolisz małe litery */
+  border-top: 1px solid #486ad3ff; /* Delikatne odseparowanie opcji */
+}
+
+/* Efekt hover dla linków wewnątrz rozwijanego menu */
+.dropdown-content a:hover {
+  background-color: #486ad3ff;
+	color: white;
+	text-decoration: none;
+}
+
+/* KLUCZ: Pokazywanie menu po najechaniu myszką na klasę .dropdown */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Zmiana koloru głównego tabu Archive, gdy myszka jest nad całkiem rozwiniętym menu */
+.dropdown:hover {
+  background-color: #486ad3ff;
+}
+
+/* koniec dropdown */
 
 .hidden {
 	display: none;
@@ -124,12 +176,12 @@ li {
 	margin: 15px 0;
 }
 .workshop-header, .abstract-header {
-	background-color: #b1cff0;
+	background-color: #c8cef3ff;
 	padding: 10px;
 }
 
 .workshop-header:hover, .abstract-header:hover {
-	background-color: #c0deff;
+	background-color: #d2d6f5ff;
 }
 
 .workshop-description {
