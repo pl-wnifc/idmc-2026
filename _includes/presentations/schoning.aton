@@ -1,0 +1,58 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: torrente
+@title: From DIDONE to ChordIA: A Cumulative Research Ecosystem in Digital Musicology
+@presenter: torrente
+@abstract: 
+
+This paper presents an overview of several interconnected
+research initiatives that together outline a shared
+philosophy for digital musicology: one grounded in the
+systematic construction of large digital corpora and in the
+reuse of tools and computational methodologies across
+projects. Within this common framework, some initiatives
+form a cumulative chain in which each project extends the
+resources of the previous one, while others run in
+parallel, applying the same data-driven ethos to different
+repertories and methods—such as ReSound, which
+reconstructs the lost sonority of Old Hispanic chant
+through phylogenetic and bioinformatic tools, or LexiMus,
+which mobilises a vast textual corpus to build a
+specialised music dictionary using modern lexicographic
+techniques.
+
+The cumulative line originates with the ERC-funded DIDONE
+project, which built a corpus of some 3,000 digitised arias
+from eighteenth-century <i>opera seria</i> on Metastasio’s most
+popular librettos, together with the musif
+feature-extraction library, to investigate how composers
+musically encoded emotions. Building directly on this
+resource, DEePMusic developed and applied the technology
+that allows the DIDONE arias database to be visualised in
+real time on any device, turning a research corpus into a
+dynamic, openly accessible interface—effectively a
+digital publication of a vast and unique music collection.
+
+Repertorium, a Horizon Europe project combining musicology
+and sound processing, drew on the same tradition of digital
+editions: our contribution supplied digital editions of
+eighteenth-century arias as well as images of the original
+music manuscripts to train an AI system in a process of
+reverse engineering—learning to generate digital editions
+automatically from the manuscript sources through optical
+music recognition (OMR).
+
+Finally, ChordIA takes the 3,000 DIDONE arias as its point
+of departure, now expanded with corpora from earlier
+repertories predating 1720, in order to model harmony
+itself through an architecture of AI agents and symbolic
+models for the deep harmonic analysis of the period when
+tonality was still being forged.
+
+
+@@END: PRESENTATION
+
+
+

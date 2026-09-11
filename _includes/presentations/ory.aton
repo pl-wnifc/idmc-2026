@@ -1,0 +1,51 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: ory
+@title: When Did Musicians Cross the Alps? Renaissance Mobility and the Problem of Fragmentary Data
+@presenter: ory
+@abstract: 
+
+Renaissance musicians regularly crossed the Alps, traveling
+from the Low Countries and German-speaking lands to Italy,
+Hungary, and beyond. Yet for all that we know about the
+biographies of these so-called <i>Oltremontani</i>, we know little
+about the practical realities of their travel. Archival
+records rarely document individual people—let alone,
+musicians—at specific Alpine crossings, and customs
+accounts tend to record goods rather than travelers. The
+question nevertheless matters for musicology: Alpine
+mobility shaped patterns of employment, repertorial
+circulation, institutional exchange, and the transmission
+of musical practices across Europe.
+
+This presentation argues that the best way to approach this
+problem is by assembling a wide range of circumstantial
+evidence about musicians’ lives and movements. I draw on
+data collected through <i>Mapping the Musical Renaissance</i>
+(https://renaissancemapping.org), a digital project that
+models the movements of Renaissance musicians through
+structured biographical data. I then consider how
+Retrieval-Augmented Generation might help mediate between
+several forms of evidence: structured event data,
+incomplete musician biographies, the prose entries of the
+<i>Prosopography of Renaissance Singers</i>
+(https://ricercar.pcr.cesr.univ-tours.fr), and secondary
+literature on Alpine routes, seasonality, and transit
+infrastructure.
+
+Rather than treating AI as a source of historical answers,
+the paper asks whether it can function as a tool for
+assembling evidence, identifying plausible routes and
+temporal patterns, surfacing contradictions, and clarifying
+degrees of uncertainty. The broader aim is methodological:
+to explore how digital musicology might employ AI to
+formulate historically-responsible hypotheses from
+fragmentary mobility data while keeping humanistic judgment
+at the center of interpretation.
+
+@@END: PRESENTATION
+
+
+

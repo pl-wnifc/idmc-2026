@@ -1,0 +1,54 @@
+
+
+
+@@BEGIN: WORKSHOP
+@id: elaute
+@title: Making the Edition: Practical Workflows and Tools in E-LAUTE
+@presenter: janjus; burghoff, schoning
+@slides: 
+@abstract:
+
+E-LAUTE (Electronic Linked Annotated Unified Tablature
+Edition: (https://e-laute.info/;
+https://edition.onb.ac.at/context:elaute/) is a research
+project establishing an open-access, comprehensive, and
+interactive edition of lute tablatures from the
+German-speaking area from 1450–1550. This corpus –
+consisting of some 2,000 pages – has become largely
+inaccessible to scholars, musicians, and the general public
+due to its unwieldy, complex notation. E-LAUTE is
+sustainably digitising this vital part of European cultural
+heritage as machine-readable music encodings. It unlocks
+this repertoire for a contemporary audience through
+transliteration into modernly understood types of lute
+tablature, transcription into common Western music
+notation, and professional audio recordings. Enhanced by
+music-historical and performance-practical metadata, the
+data is dynamically interlinked. The primary aim is to
+create a novel form of music edition – an ‘open
+knowledge platform’ intertwining musicology, music
+practice, music informatics, and literary studies
+– which will be permanently hosted by the Austrian
+National Library (ÖNB) and integrated into the RISM
+(Répertoire International des Sources Musicales) database.
+
+This workshop introduces the specialized tools and
+workflows developed within, or in cooperation with, the
+E-LAUTE project. Using practical examples from our digital
+edition, we demonstrate how the project bridges the gap
+between historical notation and modern technology.
+Participants will gain hands-on experience with the
+encoding and transcription process into both tablature and
+CMN, exploring the MEI for German lute tablature, its
+integration into Verovio (https://verovio.org/), and new
+features in mei-friend (https://mei-friend.mdw.ac.at/),
+including enhanced format flexibility, markup options, and
+annotations.
+
+@@END: WORKSHOP
+
+
+
+
+
+

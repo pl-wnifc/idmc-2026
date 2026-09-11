@@ -1,0 +1,91 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: washino
+@title: Mazurka Performance Analysis with Sonic Visualiser: An Approach Utilizing Heterogeneous Recordings
+@presenter: washino
+@abstract: 
+
+This paper proposes a performance analysis methodology for
+audio recordings and piano rolls utilizing Sonic
+Visualiser. While each of these historical recording media
+possesses distinct advantages and disadvantages, an
+analytical approach that accounts for their respective
+characteristics allows researchers to maximize the utility
+of a highly limited corpus of historical materials.
+Crucially, using the same software, Sonic Visualiser,
+enables the analysis of both media under identical
+parameters, thereby facilitating a direct and reliable
+comparison.
+
+This study utilizes performance materials from the first
+half of the twentieth century to analyze how the mazurka
+was historically performed. Audio recording technology
+emerged at the end of the nineteenth century, initially
+capturing performances on cylindrical wax recordings
+(cylinder recordings) before transitioning to SP recordings
+(78-rpm records). However, both formats were constrained by
+a maximum recording duration of approximately three to five
+minutes. Furthermore, audio recordings are characterized by
+inherent noise, and because all sounds are captured as a
+single, combined waveform, it is difficult to isolate and
+analyze how individual notes were produced.
+
+Conversely, piano rolls allow for analysis free from the
+interference of surface noise and provide both visual and
+auditory accessibility. Moreover, the onset and offset
+timings of each note are clearly discernible. Nevertheless,
+caution is required, as this onset and offset information
+may have been subject to subsequent editing. Regarding
+dynamics (volume), the acoustic intensity was not directly
+recorded from the live performance in the first place;
+thus, even if the rolls reflect the aesthetic preferences
+of the era, they cannot be considered strictly authentic in
+terms of volume.
+
+Despite the seemingly fatal flaws inherent in both types of
+performance materials, the charm and historical value of
+the recorded performances cannot be ignored. Given the
+scarce number of surviving source materials compared to the
+present day, it is essential to analyze these historical
+recordings by leveraging and complementary balancing the
+strengths of both media. Specifically, this study proposes
+a comparative analysis based on three key premises: the
+minimal editing found in audio recordings, the precise
+onset positions provided by piano rolls, and the tendency
+for identical repertoire performed by the same artist to
+exhibit structural similarities.
+
+Sonic Visualiser serves as an exceptionally powerful tool
+for this comparative analysis. Not only can both media be
+analyzed within this software, but they can also be
+displayed side-by-side. For instance, when an audio
+recording and a piano roll of the same piece by the same
+pianist exist, Sonic Visualiser can detect onset timings
+and visually align the two sources, illustrating how
+rhythms were articulated and how expressive phrasing was
+shaped. Quantifying these detected timings—for example,
+by calculating the Inter-Onset Intervals (IOI) of
+individual notes in a triple-meter accompaniment—provides
+substantial clues for analyzing rhythmic tendencies within
+specific musical sections. Furthermore, even if a piano
+roll sounds universally too fast or too slow despite being
+the same pianist, such discrepancy often stems from an
+incorrect playback speed of the roll. If the acceleration
+or deceleration is proportional throughout the entire
+performance, the correct playback speed can be
+mathematically derived through calculation.
+
+By presenting concrete case studies of audio and piano roll
+analyses using Sonic Visualiser, this paper aims to
+demonstrate the potential of this methodology for
+performance analysis while simultaneously addressing
+critical caveats that researchers must consider.
+
+
+
+@@END: PRESENTATION
+
+
+

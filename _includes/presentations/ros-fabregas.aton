@@ -1,0 +1,50 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: ros-fabregas
+@title: Bridging Digital Repositories in the Hispanic World: exploring interoperability between <i>Fondo de Música Tradicional</i> and <i>Books of Hispanic Polyphony</i>
+@presenter: ros-fabregas
+@abstract: 
+
+After a recent complete technological overhaul of the two
+digital platforms <i>Fondo de Música Tradicional IMF-CSIC</i>
+(FMT: https://musicatradicional.imf.csic.es/, in open
+access since 2012, renewed in 2025) and <i>Books of Hispanic
+Polyphony</i> (BHP: https://hispanicpolyphony.eu/, created in
+2013, in open access since 2017, and renewed in 2026) there
+are new challenges and goals that go beyond the improvement
+of interface characteristics and increase of data in each
+platform. Finding musical concordances through numeric
+incipits in each database is an important task, especially
+in BHP in an effort to reduce the current approximate 30%
+of anonymous works. Although the first impression is that
+the contents and purpose of FMT and BHP seem quite
+different, as these digital platforms grew, it became clear
+that a <i>longue durée</i> perspective of Hispanic repertoire
+—at least from the 15<sup>th</sup> to the 20<sup>th</sup> centuries— favored
+connections between written and unwritten music traditions
+(both sacred and secular), as well as the close
+relationships of certain literary genres (such as
+<i>romances</i>/ballads) and their musical counterparts, including
+the tradition of <i>se canta al tono de</i> / <i>cantasi come</i> to
+trace well known melodies with which to sing multiple
+poetic texts. Thus, at some point BHP was connected to FMT
+so that, after a search by title of work in BHP, it was
+possible to check similar titles, or keywords, in FMT with
+just a click without having to move from one database to
+the other. This was just the beginning of finding out ways
+to establish possible meaningful links between FMT and BHP,
+but as AI has entered the scene, the workflow in both
+platforms has improved, and certain prompt procedures with
+AI agents provide an unexpected help in order to explore
+these two large datasets as one in combination with other
+repositories. This Conference provides an ideal opportunity
+to present several aspects of work-in-progress in this
+direction and to receive the feedback and experience from
+other projects.
+
+@@END: PRESENTATION
+
+
+
