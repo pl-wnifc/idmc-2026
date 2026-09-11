@@ -2,7 +2,6 @@
 
 {% comment %} list of presentations {% endcomment %}
 {% include presentations/albrecht.aton                         %}
-{% include presentations/condit-schultz.aton                   %}
 {% include presentations/dahlig-turek-matuszewska.aton         %}
 {% include presentations/desmond.aton                          %}
 {% include presentations/drescher.aton                         %}

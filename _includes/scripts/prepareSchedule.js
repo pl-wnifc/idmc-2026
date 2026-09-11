@@ -36,7 +36,7 @@ function prepareSchedule(schedule) {
 				} else if (wLookup[row['presentationId']]) {
 					presentation = wLookup[row['presentationId']];
 				}
-				console.log(presentation);
+				//console.log("pres:", row['presentationId'], presentation);
 					//pLookup[row['presentationId']];
 				let presentationDiv = document.createElement('div');
 				if (row['event'] == 'keynote') {
