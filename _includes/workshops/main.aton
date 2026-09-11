@@ -1,6 +1,6 @@
 
 
-{% include workshops/humdrumR.aton %}
+{% include workshops/elaute.aton   %}
 {% include workshops/humlib.aton   %}
 
 
