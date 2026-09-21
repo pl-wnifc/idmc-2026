@@ -55,6 +55,7 @@ function prepareSchedule(schedule) {
 				presentationLink.classList.add('linkicon');
 				let onclick = "goToDescription(" + "\'abstracts\', \'nav-abstracts\', \'\', \'" + row['presentationId'] + "\')";
 				presentationLink.setAttribute('onclick', onclick);
+				console.log(row['presentationId']);
 				presentationLink.innerHTML = presentation['title'];
 				presentationDiv.appendChild(presentationLink);
 				let br = document.createElement("br");
