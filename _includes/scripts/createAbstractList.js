@@ -53,7 +53,7 @@ function createAbstractList(list) {
 		
 		//let dateString = formatDate(list[i].date);
 		
-		//console.log(sLookup[id]);
+		console.log(sLookup[id]);
 		let dateString = formatDate(sLookup[id].day);
 		
 		let date = document.createElement("p");
