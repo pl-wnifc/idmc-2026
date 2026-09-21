@@ -13,7 +13,6 @@
 {% include presenters/janjus.aton                 %}
 {% include presenters/janutenaite-bogdaniene.aton %}
 {% include presenters/kucinskas.aton              %}
-{% include presenters/main.aton                   %}
 {% include presenters/matuszewska.aton            %}
 {% include presenters/ory.aton                    %}
 {% include presenters/poudrier.aton               %}
