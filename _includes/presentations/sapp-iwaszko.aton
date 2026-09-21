@@ -1,0 +1,59 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: sapp-iwaszko
+@title: Digital Encodings of New German Organ Tablatures
+@presenter: sapp; iwaszko
+@abstract: 
+
+Organ tablatures, especially sources using the New German
+style of notation, are very important for the history of
+Polish music in the 16th and 17th centuries. They preserve
+not only unique repertoire, but also valuable traces of
+performance practice. Among the sources of this type, the
+richest are the Pelplin Tablatures. This six-volume
+collection, preserving almost 900 musical pieces, mainly
+vocal music for 2–12 parts, was discovered in the late
+1950s and has not yet been transcribed and published, apart
+from its facsimile edition.
+
+The size of the repertoire is not the only challenge when
+it comes to editing the whole collection. Transcribing the
+tablature into common notation does not allow for
+preserving the specific features of keyboard notation. On
+the other hand, since most of the repertoire is vocal,
+using only the original organ notation would not be
+particularly useful for performers.
+
+Fortunately, the digital medium allows for multilayer
+encoding, preserving the full information while presenting
+it in modern notation. For this reason, in 2025 Marcin
+Konik, Craig Sapp and Jacek Iwaszko designed a new digital
+format for encoding organ tablatures – GOT (German Organ
+Tablature). It is based on the TSV format and mimics the
+layout of the original tablature notation as closely as
+possible. This resemblance makes the transcription process
+both quick and accurate. As a result, it was possible to
+transcribe the entire repertoire of the Pelplin Tablatures
+within just a few months.
+
+The GOT-to-Humdrum converter (got2hum) was developed
+together with the format and is available as part of the
+humlib library. Additionally, thanks to its TSV-like
+syntax, GOT files can be created directly in Google Sheets
+or other spreadsheet applications, such as Microsoft Excel.
+It was also possible to develop additional validation tools
+for Google Sheets, facilitating the transcription and
+editing process.
+
+The paper presents the GOT format in detail, as well as the
+workflow used to create digital editions of the repertoire
+of the Pelplin Tablatures. It also characterises the
+musical features of the encoded repertoire and discusses
+the possibilities offered by the resulting digital files.
+
+@@END: PRESENTATION
+
+
+
