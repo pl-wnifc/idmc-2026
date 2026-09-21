@@ -1,7 +1,7 @@
 
 
 {% comment %} list of presentations              {% endcomment %}
-{% include presentations/agresta.aton                          %}
+{% comment %} include presentations/agresta.aton {% endcomment %}
 {% include presentations/albrecht.aton                         %}
 {% include presentations/dahlig-turek-matuszewska.aton         %}
 {% include presentations/desmond.aton                          %}
