@@ -1,6 +1,7 @@
 
 
-{% comment %} list of presentations {% endcomment %}
+{% comment %} list of presentations              {% endcomment %}
+{% include presentations/agresta.aton                          %}
 {% include presentations/albrecht.aton                         %}
 {% include presentations/dahlig-turek-matuszewska.aton         %}
 {% include presentations/desmond.aton                          %}
@@ -8,14 +9,20 @@
 {% include presentations/eipert.aton                           %}
 {% include presentations/hankinson.aton                        %}
 {% include presentations/janutenaite-bogdaniene-kucinskas.aton %}
+{% include presentations/main.aton                             %}
 {% include presentations/ory.aton                              %}
 {% include presentations/poudrier.aton                         %}
+{% include presentations/ricciardi.aton                        %}
+{% include presentations/rizo.aton                             %}
 {% include presentations/rodin.aton                            %}
+{% include presentations/rohrmeier.aton                        %}
 {% include presentations/ros-fabregas.aton                     %}
 {% include presentations/sapp-iwaszko.aton                     %}
 {% include presentations/schoning.aton                         %}
 {% include presentations/shanahan.aton                         %}
 {% include presentations/smith.aton                            %}
-{% include presentations/wiering.aton                          %}
-{% include presentations/washino.aton                          %}
 {% include presentations/torrente.aton                         %}
+{% include presentations/washino.aton                          %}
+{% include presentations/wiering.aton                          %}
+{% include presentations/wojciechowski.aton                    %}
+

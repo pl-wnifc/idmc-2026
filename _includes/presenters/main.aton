@@ -1,6 +1,7 @@
 
 
-{% comment %} list of presenters {% endcomment %}
+{% comment %} list of presenters    {% endcomment %}
+{% include presenters/agresta.aton                %}
 {% include presenters/albrecht.aton               %}
 {% include presenters/burghoff.aton               %}
 {% include presenters/dahlig-turek.aton           %}
@@ -12,10 +13,14 @@
 {% include presenters/janjus.aton                 %}
 {% include presenters/janutenaite-bogdaniene.aton %}
 {% include presenters/kucinskas.aton              %}
+{% include presenters/main.aton                   %}
 {% include presenters/matuszewska.aton            %}
 {% include presenters/ory.aton                    %}
 {% include presenters/poudrier.aton               %}
+{% include presenters/ricciardi.aton              %}
+{% include presenters/rizo.aton                   %}
 {% include presenters/rodin.aton                  %}
+{% include presenters/rohrmeier.aton              %}
 {% include presenters/ros-fabregas.aton           %}
 {% include presenters/sapp.aton                   %}
 {% include presenters/schoning.aton               %}
@@ -24,4 +29,4 @@
 {% include presenters/torrente.aton               %}
 {% include presenters/washino.aton                %}
 {% include presenters/wiering.aton                %}
-
+{% include presenters/wojciechowski.aton          %}
