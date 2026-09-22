@@ -5,6 +5,7 @@
 {% include presentations/albrecht.aton                         %}
 {% include presentations/dahlig-turek-matuszewska.aton         %}
 {% include presentations/desmond.aton                          %}
+{% include presentations/din.aton                              %}
 {% include presentations/drescher.aton                         %}
 {% include presentations/eipert.aton                           %}
 {% include presentations/hankinson.aton                        %}
