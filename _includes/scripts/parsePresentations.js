@@ -9,7 +9,7 @@
 function parsePresentations(presentations) {
 	let aton = new ATON;
 	presentations = aton.parse(presentations).PRESENTATION;
-	console.log(presentations);
+	//console.log(presentations);
    let urlPattern = /(?<!href=")https?:\/\/[^\s)><]+[^\s),.?!><]/g;
 	for (let i=0; i<presentations.length; i++) {
 		let a = presentations[i].abstract;

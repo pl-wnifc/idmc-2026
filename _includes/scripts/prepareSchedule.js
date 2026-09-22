@@ -1,6 +1,6 @@
 
 function prepareSchedule(schedule) {
-	console.log(pLookup);
+	//console.log(pLookup);
 	for (var d in schedule) {
 		//console.log(schedule[d]);
 		//console.log(formatDate(d));
@@ -36,6 +36,9 @@ function prepareSchedule(schedule) {
 				} else if (wLookup[row['presentationId']]) {
 					presentation = wLookup[row['presentationId']];
 				}
+				let rowId = "schedule-" + presentation['id'];
+				dayEvent.setAttribute('id', rowId);
+				//console.log(rowId);
 				//console.log("pres:", row['presentationId'], presentation);
 					//pLookup[row['presentationId']];
 				let presentationDiv = document.createElement('div');
@@ -55,7 +58,7 @@ function prepareSchedule(schedule) {
 				presentationLink.classList.add('linkicon');
 				let onclick = "goToDescription(" + "\'abstracts\', \'nav-abstracts\', \'\', \'" + row['presentationId'] + "\')";
 				presentationLink.setAttribute('onclick', onclick);
-				console.log(row['presentationId']);
+				//console.log(row['presentationId']);
 				presentationLink.innerHTML = presentation['title'];
 				presentationDiv.appendChild(presentationLink);
 				let br = document.createElement("br");

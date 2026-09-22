@@ -53,12 +53,18 @@ function createAbstractList(list) {
 		
 		//let dateString = formatDate(list[i].date);
 		
-		console.log("id=", id, sLookup[id]);
+		//console.log("id=", id, sLookup[id]);
 		let dateString = formatDate(sLookup[id].day);
 		
 		let date = document.createElement("p");
 		date.classList.add("date");
-		date.innerHTML = dateString + ", " + sLookup[id].time;
+		let dateLink = document.createElement('a');
+		let scheduleId = "schedule-" + id;
+		let dateOnclick = "goToSchedule(\'schedule\', \'nav-schedule\', \'" + scheduleId + "\')";
+		dateLink.setAttribute('onClick', dateOnclick)
+		
+		dateLink.innerHTML = dateString + ", " + sLookup[id].time;
+		date.appendChild(dateLink);
 
 		abstractHead.appendChild(title);
 		abstractHead.appendChild(author);
