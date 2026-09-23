@@ -10,6 +10,7 @@
 {% include presentations/eipert.aton                           %}
 {% include presentations/hankinson.aton                        %}
 {% include presentations/janutenaite-bogdaniene-kucinskas.aton %}
+{% include presentations/morgan.aton                           %}
 {% include presentations/ory.aton                              %}
 {% include presentations/poudrier.aton                         %}
 {% include presentations/ricciardi.aton                        %}
