@@ -1,0 +1,46 @@
+
+
+
+@@BEGIN: PRESENTATION
+@id: ricciardi-sapp-morgan
+@title: Parsing Musical Cadences and Text Underlay in the Late Italian Madrigal: The Tasso in Music Project
+@presenter: ricciardi; sapp; morgan
+@abstract: 
+
+Featuring digital editions of circa 800 musical settings of
+Torquato Tasso’s poetry, the Tasso in Music Project
+(tassomusic.org) offers fertile ground for computational
+analysis of the intersection between music and text in the
+late Italian madrigal. In this presentation, we will
+showcase new tools for the encoding, automatic detection,
+and analysis of cadences, which play a crucial role in the
+articulation of Renaissance musical syntax. These tools use
+humlib—the open-source C++ library on which the
+project’s digital editions are based—and build on Sapp
+and Morgan’s research on computational analysis of
+dissonance treatment in Renaissance counterpoint (2017).
+Enabling markup of defining structural elements of
+cadences, such as intervallic profiles, voice functions
+(cantizans, tenorizans, bassizans, etc.), and metric
+position, these tools have the potential of providing one
+of the most comprehensive documentations of cadence usage
+in the late madrigal repertoire. Initially applicable only
+to suspension-based cadences, the tools have now been
+extended to non-suspension-based ones, which are quite
+common in the late madrigal repertoire and yet have long
+been awaiting systematic investigation. In the
+presentation, we will also illustrate a markup framework
+for the parsing of the text underlay’s structure, which
+allows for the encoding and automatic detection of
+essential features such as verse types and repetitions of
+entire lines or portions thereof. We will then show how
+these tools for cadence/text-underlay markup can interact
+to enable computational analysis, both in individual pieces
+and at the corpus level, of important aspects of music/text
+relations, such as musical treatment of textual repetitions
+and of different verse types.
+
+@@END: PRESENTATION
+
+
+
