@@ -3,11 +3,27 @@
 
 @@BEGIN: PRESENTATION
 @id: rizo
-@title: 
+@title: Designing a Musically Informed OMR: From Neumes to Modern Staff Notation
 @presenter: rizo
 @abstract: 
 
-[To be added soon]
+Optical Music Recognition has traditionally been addressed
+one notation at a time, with separate systems for common
+Western music, Mensural sources and chant. Our work at the
+University of Alicante follows a different path, applying a
+single approach to neumatic, square, mensural and modern
+staff notation alike. Two ideas underpin it. First,
+identifying symbols is not equivalent to reading music. The
+duration of a mensural note depends on its context, and the
+assignment of syllables to notes depends on how the text is
+set. A system must therefore incorporate musical knowledge.
+Second, OMR output always requires human verification. The
+effort of the person reviewing and correcting it is the
+main cost of the process, and the tools must be designed
+around that person as much as around the models. The talk
+illustrates both ideas with examples from the MuRET
+ecosystem and discusses what has proved effective and where
+difficulties remain.
 
 @@END: PRESENTATION
 
