@@ -3,7 +3,7 @@
 
 @@BEGIN: BIO
 @id: sapp
-@title: Prof.
+@title: Dr.
 @first-name: Craig Stuart
 @last-name: Sapp
 @affiliation: CCARH/PHI/Stanford University
@@ -11,19 +11,18 @@
 @country: USA
 @bio:
 
-Craig Stuart Sapp is a researcher at the Center for
-Computer Assisted Research in the Humanities of the Packard
-Humanities Institute as well as an adjunct professor of
-music at Stanford University, where he earned his PhD in
-computer-based music theory and acoustics. He earned a
-master's degree in music composition and piano performance
-as well as a bachelor's degree in music and physics from
-the University of Virginia. He collaborates with the Chopin
-Institute on digital projects and is technical director of
-the <i>Josquin Research Project</i> (josquin.stanford.edu), the
-<i>Tasso in Music Project</i> (tassomusic.org), the <i>Polyrhythm
-Project</i> (polyrhythm.humdrum.org), and The <i>1520's Project</i>
-(1520s-project.org).
-
+Craig Sapp is a leading researcher in music encoding and
+computational music analysis. He earned a Ph.D. in
+computer-based music theory and acoustics from Stanford
+University and has taught at Peabody Conservatory and
+Stanford, while also working at Royal Holloway on
+computational studies of Chopin’s mazurkas with Nicholas
+Cook. He is an adjunct professor at Stanford and a
+researcher at the Center for Computer-Assisted Research in
+the Humanities of the Packard Humanities Institute. Sapp
+directs technical work for the Josquin Research Project,
+Tasso in Music, and several international digital music
+initiatives involving Renaissance, Polish, chant, and
+twentieth-century repertories.
 
 @@END: BIO

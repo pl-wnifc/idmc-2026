@@ -3,15 +3,26 @@
 
 @@BEGIN: BIO
 @id: morgan
-@title: 
+@title: Dr. 
 @first-name: Alexander 
 @last-name: Morgan
-@affiliation: 
+@affiliation: Independent Scholar
 @city: Barcelona
 @country: Spain
 @bio:
 
-Alexander Morgan
+Alexander Morgan (Ph.D., McGill University, 2017) is a
+Renaissance counterpoint researcher who specializes in
+interval succession treatises and automated syntactical
+analysis of scores in symbolic notation. Alexander
+currently works outside of academia as a programmer, but
+has contributed to several projects as a music information
+retrieval consultant, including The Josquin Research
+Project, VIS, CRIM, pyAMPACT, and now the Tasso in Music
+Project. His greatest contributions to the field have been
+in defining contrapuntal events theoretically and in code
+for use in corpus studies and stylistically informed
+research tools.
 
 
 @@END: BIO
