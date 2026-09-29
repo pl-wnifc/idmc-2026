@@ -3,11 +3,77 @@
 
 @@BEGIN: PRESENTATION
 @id: rohrmeier
-@title: 
+@title: Musicology at Scale: From Expert-Annotated Corpora to Computational Models of Music and its Evolution
 @presenter: rohrmeier
 @abstract: 
 
-[To be added soon]
+Musicology has long navigated fundamental methodological
+tensions: while qualitative close readings of canonical
+masterworks bring profound interpretive insights, verifying
+broad macro-historical narratives across decades and
+centuries faces fundamental challenges of reproducibility,
+scalability, and verifiability. How can we methodologically
+bridge an individual composer's stylistic innovation with
+overarching systemic change? How can we adopt and leverage
+current computational methods to explore large musical
+datasets and enrich our understanding of music and its
+historical development?
+
+This keynote presents an overview of long-term research
+developed at the Digital and Cognitive Musicology Lab
+(DCML), showing our path from the foundational labor of
+corpus building to quantitative models of musical structure
+and diachronic evolution.
+
+<h3>The Epistemological Challenge: Scalability, Verifiability, and Corpus Criticism</h3>
+
+While the field previously suffered from lack of digital
+data, collaborative initiatives over the past fifteen years
+have substantially changed the situation. Creating
+large-scale symbolic corpora requires the formulation of
+explicit annotation standards, rigorous data engineering,
+extensive annotation and curation effort as well as
+long-term financial stability. Corpora, however, are never
+neutral: they inherit canon biases, survival skews, and
+institutional filters which demand detailed criticism.
+Thus, methodological transparency and reflection are
+central prerequisites for turning empirical datasets into
+the foundation for digital musicological research.
+
+<h3>The Role of the Model: "Choose Your Grammar"</h3>
+
+Contrary to a pervasive methodological misconception, there
+is no such thing as theory-free or theory-neutral data
+exploration. Every computational representation, from basic
+Markov models and n-gram transitions to tree-rewriting
+rules and beyond, carries implicit assumptions about a
+specific music-theoretical ontology and formal grammar.
+Digital corpus research does not eliminate theoretical
+bias; rather, it forces our music-theoretical assumptions
+to become overt, mathematically explicit, transparent, and
+contestable.
+
+<h3>Data-Driven Explorations: Distributions, Tonal Spaces, and
+Harmonic Trajectories<h3>
+
+Leveraging curated corpora and theoretical models enables
+us to explore three centuries of music in new ways. Drawing
+on our recent work, we illustrate the power of simple and
+advanced statistics of pitch and harmony. From another
+angle, adopting different formal representations of tonal
+spaces into empirical research opens a new avenue to trace
+diachronic evolution. Finally, expert-annotated harmonic
+labels make it possible to chart large-scale harmonic
+trajectories, trace regime shifts and identify
+statistically exceptional individual compositions.
+
+In general, quantitative methods and computational modeling
+do not seek to supplant traditional historical
+interpretation. Instead, they provide a range of different
+pathways and lenses, allowing music researchers to
+critically evaluate, ground and extend musical analyses and
+historical narratives within contestable empirical
+evidence.
 
 @@END: PRESENTATION
 

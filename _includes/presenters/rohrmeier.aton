@@ -6,12 +6,24 @@
 @title: Prof.
 @first-name: Martin
 @last-name: Rohrmeier
-@affiliation: École Polytechnique Fédérale de Lausanne
+@affiliation: Digital and Cognitive Musicology Lab, École Polytechnique Fédérale de Lausanne
 @city: Lausanne
 @country: Switzerland
 @bio:
 
-Prof. Martin Rohrmeier
+Martin Rohrmeier is Associate Professor of Musicology at
+the École Polytechnique Fédérale de Lausanne (EPFL),
+where he directs the Digital and Cognitive Musicology Lab
+(DCML). He studied philosophy, musicology, and mathematics
+in Bonn and completed his MPhil and PhD at the University
+of Cambridge under the supervision of Ian Cross. His
+research interests bridge formal music theory, cognitive
+science, and computational methods, with a focus on
+mathematical and generative models of musical structure,
+large-scale empirical music analysis, as well as
+computational creativity. He has been co-directing a major
+initiative dedicated to open, expert-annotated symbolic
+music corpora.
 
 
 @@END: BIO
