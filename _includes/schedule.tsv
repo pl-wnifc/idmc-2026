@@ -25,8 +25,13 @@ Day	Time	Event	PresentationID
 2026-10-22	16:00	presentation	hankinson
 2026-10-22	16:30	Coffee
 2026-10-22	17:00	workshop	elaute
+<<<<<<< HEAD
 2026-10-23	10:00	presentation	rohrmeier
 2026-10-23	11:00	Coffee
+=======
+2026-10-23	10:00	keynote	rohrmeier
+2026-10-23	11:00	Coffee	
+>>>>>>> 9449453662447e7268b1d29fede6318b51d03fd2
 2026-10-23	11:30	presentation	smith
 2026-10-23	12:00	presentation	ros-fabregas
 2026-10-23	12:30	presentation	janutenaite-bogdaniene-kucinskas
@@ -39,5 +44,10 @@ Day	Time	Event	PresentationID
 2026-10-24	10:00	presentation	wojciechowski
 2026-10-24	10:30	presentation	frankowski
 2026-10-24	11:00	presentation	sablinski
+<<<<<<< HEAD
 2026-10-24	11:30	Panel discussion
 2026-10-24	13:00	End of conference
+=======
+2026-10-24	11:30	Panel discussion	
+2026-10-24	13:00	End of conference	
+>>>>>>> 9449453662447e7268b1d29fede6318b51d03fd2
