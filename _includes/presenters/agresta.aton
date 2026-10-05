@@ -3,7 +3,7 @@
 
 @@BEGIN: BIO
 @id: agresta
-@title: 
+@title: Dr.
 @first-name: Rosalba
 @last-name: Agresta
 @affiliation: Bibliothèque Nationale De France
@@ -11,7 +11,13 @@
 @country: France
 @bio:
 
-Rosalba Agresta
+Rosalba Agresta is a research curator at the Music
+Department of the Bibliothèque nationale de France. She
+holds a PhD from the École Pratique des Hautes Études
+(Paris), where she defended a dissertation on Chopin’s
+reception in Britain. Her research interests include
+19th-century musical life, music genetics, and reception
+studies.
 
 
 @@END: BIO
