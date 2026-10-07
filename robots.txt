@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idmc-2026.nifc.pl/sitemap.xml
