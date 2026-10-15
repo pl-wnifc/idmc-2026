@@ -4,7 +4,7 @@
 {% include presentations/agresta.aton                          %}
 {% include presentations/albrecht.aton                         %}
 {% include presentations/dahlig-turek-matuszewska.aton         %}
-{% include presentations/desmond.aton                          %}
+{% comment %} include presentations/desmond.aton {% endcomment %}
 {% include presentations/drescher.aton                         %}
 {% include presentations/eipert.aton                           %}
 {% include presentations/frankowski.aton                       %}
@@ -26,4 +26,3 @@
 {% include presentations/washino.aton                          %}
 {% include presentations/wiering.aton                          %}
 {% include presentations/wojciechowski.aton                    %}
-

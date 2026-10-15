@@ -5,7 +5,7 @@
 {% include presenters/albrecht.aton               %}
 {% include presenters/burghoff.aton               %}
 {% include presenters/dahlig-turek.aton           %}
-{% include presenters/desmond.aton                %}
+{% comment %} include presenters/desmond.aton {% endcomment %}
 {% include presenters/drescher.aton               %}
 {% include presenters/eipert.aton                 %}
 {% include presenters/frankowski.aton             %}
