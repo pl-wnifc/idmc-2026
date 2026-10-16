@@ -49,20 +49,20 @@ function createAbstractList(list) {
 		let affiliation = document.createElement("p");
 		affiliation.classList.add("affiliation");
 		affiliation.innerHTML = affiliationFieldList.join(", ");
-		
-		
+
+
 		//let dateString = formatDate(list[i].date);
-		
-		console.log("id=", id, sLookup[id]);
+
+		//console.log("id=", id, sLookup[id]);
 		let dateString = formatDate(sLookup[id].day);
-		
+
 		let date = document.createElement("p");
 		date.classList.add("date");
 		let dateLink = document.createElement('a');
 		let scheduleId = "schedule-" + id;
 		let dateOnclick = "goToSchedule(\'schedule\', \'nav-schedule\', \'" + scheduleId + "\')";
 		dateLink.setAttribute('onClick', dateOnclick)
-		
+
 		dateLink.innerHTML = dateString + ", " + sLookup[id].time;
 		date.appendChild(dateLink);
 
@@ -90,6 +90,3 @@ function createAbstractList(list) {
 		container.appendChild(item);
 	}
 }
-
-
-
