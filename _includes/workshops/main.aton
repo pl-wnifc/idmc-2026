@@ -1,7 +1,5 @@
 
 
-{% include workshops/elaute.aton   %}
-{% include workshops/humlib.aton   %}
-
-
-
+{% include workshops/elaute.aton        %}
+{% include workshops/humlib.aton        %}
+{% include workshops/performance.aton   %}
