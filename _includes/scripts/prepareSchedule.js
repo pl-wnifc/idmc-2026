@@ -61,6 +61,13 @@ function prepareSchedule(schedule) {
 				//console.log(row['presentationId']);
 				presentationLink.innerHTML = presentation['title'];
 				presentationDiv.appendChild(presentationLink);
+				// Change label immediately after the title
+				if (row['change']?.trim().toLowerCase() === 'change') {
+    			let changeLabel = document.createElement('span');
+    			changeLabel.classList.add('schedule-change');
+    			changeLabel.innerHTML = '<span class="blink">!</span> change';
+    			presentationDiv.appendChild(changeLabel);
+				}
 				let br = document.createElement("br");
 				presentationDiv.appendChild(br);
 				let allPresenters = document.createElement("p");
@@ -74,15 +81,6 @@ function prepareSchedule(schedule) {
 				}
 				allPresenters.innerHTML = allPresentersList.join(', ');
 				presentationDiv.appendChild(allPresenters);
-
-				// Oznaczenie zmiany w programie
-				if (row['change']?.trim().toLowerCase() === 'change') {
-	    		let changeLabel = document.createElement('span');
-	    		changeLabel.classList.add('schedule-change');
-	    		changeLabel.innerHTML = '<span class="blink">!</span> change';
-
-	    		presentationDiv.appendChild(changeLabel);
-				}
 
 				eventCell.appendChild(presentationDiv);
 			}
