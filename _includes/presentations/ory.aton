@@ -3,49 +3,49 @@
 
 @@BEGIN: PRESENTATION
 @id: ory
-@title: When Did Musicians Cross the Alps? Renaissance Mobility and the Problem of Fragmentary Data
+@title: When Did Renaissance Musicians Cross the Alps?
 @presenter: ory
-@abstract: 
+@abstract:
 
 Renaissance musicians regularly crossed the Alps, traveling
-from the Low Countries and German-speaking lands to Italy,
-Hungary, and beyond. Yet for all that we know about the
-biographies of these so-called <i>Oltremontani</i>, we know little
-about the practical realities of their travel. Archival
-records rarely document individual people—let alone,
-musicians—at specific Alpine crossings, and customs
-accounts tend to record goods rather than travelers. The
-question nevertheless matters for musicology: Alpine
-mobility shaped patterns of employment, repertorial
-circulation, institutional exchange, and the transmission
-of musical practices across Europe.
+between the Low Countries, German-speaking lands, and
+Italy. Yet for all that we know about the biographies of
+these so-called <i>Oltremontani</i>, we know little about the
+practical realities of their travel. Archival records
+rarely document individual people—let alone,
+musicians—at specific Alpine crossings, while customs
+accounts tend to record goods rather than travelers. Even
+when musicians are documented on opposite sides of the
+mountains, the time between those observations often leaves
+considerable uncertainty about when and how they crossed.
 
-This presentation argues that the best way to approach this
-problem is by assembling a wide range of circumstantial
-evidence about musicians’ lives and movements. I draw on
-data collected through <i>Mapping the Musical Renaissance</i>
-(https://renaissancemapping.org), a digital project that
-models the movements of Renaissance musicians through
-structured biographical data. I then consider how
-Retrieval-Augmented Generation might help mediate between
-several forms of evidence: structured event data,
-incomplete musician biographies, the prose entries of the
-<i>Prosopography of Renaissance Singers</i>
-(https://ricercar.pcr.cesr.univ-tours.fr), and secondary
-literature on Alpine routes, seasonality, and transit
-infrastructure.
+This presentation draws on Mapping the Musical Renaissance
+(renaissancemapping.org), supplemented by the Tours
+Prosopography of Renaissance Singers, to assemble dated and
+located attestations of musicians’ movements. Comparing
+documentary windows with estimated route distances,
+seasonal conditions, and transport infrastructure allows us
+to investigate when musicians crossed the Alps and how
+quickly they might have traveled. Taking these practical
+considerations seriously can sharpen our assessment of
+composer biographies. Case studies of journeys by Jacob
+Obrecht and Josquin des Prez demonstrate how apparently
+plausible identifications and chronologies can require
+exceptional rates of travel. Calculating the demands of an
+itinerary allows us to test interpretations that have
+sometimes acquired the status of documented fact.
 
-Rather than treating AI as a source of historical answers,
-the paper asks whether it can function as a tool for
-assembling evidence, identifying plausible routes and
-temporal patterns, surfacing contradictions, and clarifying
-degrees of uncertainty. The broader aim is methodological:
-to explore how digital musicology might employ AI to
-formulate historically-responsible hypotheses from
-fragmentary mobility data while keeping humanistic judgment
-at the center of interpretation.
+The broader argument is methodological. Event-based,
+structured data makes scattered biographical evidence
+available for systematic comparison, while AI can assist in
+extracting and assembling that evidence. Quantification
+does not eliminate uncertainty: it makes assumptions more
+explicit and historical reconstructions more open to
+scrutiny. We can make concrete claims while explaining what
+we know, what we assume, and what remains unresolved. By
+putting our reasoning to the test, we may discover more
+than we expected.
+
+
 
 @@END: PRESENTATION
-
-
-
