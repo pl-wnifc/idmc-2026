@@ -76,7 +76,7 @@ function prepareSchedule(schedule) {
 				presentationDiv.appendChild(allPresenters);
 
 				// Oznaczenie zmiany w programie
-				if (row['Status']?.trim().toLowerCase() === 'change') {
+				if (row['change']?.trim().toLowerCase() === 'change') {
 	    		let changeLabel = document.createElement('span');
 	    		changeLabel.classList.add('schedule-change');
 	    		changeLabel.innerHTML = '<span class="blink">!</span> change';

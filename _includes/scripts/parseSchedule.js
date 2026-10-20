@@ -11,7 +11,8 @@ function parseSchedule(tsv) {
 			day: row.Day,
 			time: row.Time,
 			event: row.Event,
-			presentationId: row.PresentationID
+			presentationId: row.PresentationID,
+			change: row.Status
 		};
 		schedule[row.Day].push(item);
 		if (row.PresentationID) {
