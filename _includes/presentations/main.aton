@@ -6,7 +6,7 @@
 {% include presentations/dahlig-turek-matuszewska.aton         %}
 {% comment %} include presentations/desmond.aton {% endcomment %}
 {% include presentations/drescher.aton                         %}
-{% include presentations/eipert.aton                           %}
+{% comment %} include presentations/eipert.aton  {% endcomment %}
 {% include presentations/frankowski.aton                       %}
 {% include presentations/hankinson.aton                        %}
 {% include presentations/janutenaite-bogdaniene-kucinskas.aton %}

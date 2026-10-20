@@ -11,11 +11,11 @@ function prepareSchedule(schedule) {
 		let dayHead = document.createElement('h2');
 		dayHead.innerHTML = formatDate(d);
 		dayDiv.appendChild(dayHead);
-		
+
 		let dayTable = document.createElement('table');
 		dayTable.classList.add("tg");
 		let dayTbody = document.createElement('tbody');
-		
+
 		for (var row of schedule[d]) {
 			let dayEvent = document.createElement('tr');
 			//console.log(row);
@@ -23,10 +23,10 @@ function prepareSchedule(schedule) {
 			eventTimeCell.classList.add('hour');
 			eventTimeCell.innerHTML = row['time'];
 			dayEvent.appendChild(eventTimeCell);
-			
+
 			let eventCell = document.createElement('td');
 			eventCell.classList.add('event');
-			
+
 			if (row['presentationId'] == "") {
 				eventCell.innerHTML = row['event'];
 			} else {
@@ -75,19 +75,25 @@ function prepareSchedule(schedule) {
 				allPresenters.innerHTML = allPresentersList.join(', ');
 				presentationDiv.appendChild(allPresenters);
 
+				// Oznaczenie zmiany w programie
+				if (row['status']?.trim().toLowerCase() === 'change') {
+	    		let changeLabel = document.createElement('span');
+	    		changeLabel.classList.add('schedule-change');
+	    		changeLabel.innerHTML = '<span class="blink">!</span> change';
 
+	    		presentationDiv.appendChild(changeLabel);
+				}
 
-				eventCell.appendChild(presentationDiv)
-				
+				eventCell.appendChild(presentationDiv);
 			}
-			
+
 			dayEvent.appendChild(eventCell);
 			dayTbody.appendChild(dayEvent);
 		}
-		
+
 		dayTable.appendChild(dayTbody);
 		dayDiv.appendChild(dayTable);
-		
+
 		container.appendChild(dayDiv);
 	}
 }

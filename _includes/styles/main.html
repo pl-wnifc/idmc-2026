@@ -280,8 +280,32 @@ a.slides::after {
 	margin: 0;
 	display: inline;
 }
+/* Oznaczenie zmian w programie konferencji */
+
+.schedule-change {
+    display: inline-block;
+    color: #d00000;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.schedule-change .blink {
+    display: inline-block;
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+/* Wyłączenie animacji dla osób preferujących ograniczony ruch */
+@media (prefers-reduced-motion: reduce) {
+    .schedule-change .blink {
+        animation: none;
+    }
+}
 
 </style>
-
-
-

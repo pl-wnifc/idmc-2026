@@ -7,7 +7,7 @@
 {% include presenters/dahlig-turek.aton           %}
 {% comment %} include presenters/desmond.aton {% endcomment %}
 {% include presenters/drescher.aton               %}
-{% include presenters/eipert.aton                 %}
+{% comment %} include presenters/eipert.aton  {% endcomment %}
 {% include presenters/frankowski.aton             %}
 {% include presenters/hankinson.aton              %}
 {% include presenters/iwaszko.aton                %}
